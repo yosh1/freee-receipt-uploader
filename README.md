@@ -21,3 +21,7 @@ Set image file for `./img/`. after run
 ```
 $ yarn start
 ```
+
+## License
+
+See [License](./License.md) .
