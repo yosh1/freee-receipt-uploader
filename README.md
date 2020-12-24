@@ -24,4 +24,4 @@ $ yarn start
 
 ## License
 
-See [License](./License.md) .
+See [LICENSE](./LICENSE) .
